@@ -1,0 +1,21 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "description": "我的个人博客",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaoSiQi7/my_blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaoSiQi7/my_blog/issues"
+  },
+  "homepage": "https://github.com/YaoSiQi7/my_blog#readme"
+}
